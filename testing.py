@@ -1,7 +1,7 @@
 
 """
 
-@author: Prakhar
+@author: Ajay
 """
 
 from keras.preprocessing.image import load_img
